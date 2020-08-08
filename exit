@@ -1,0 +1,23 @@
+[33mcommit fa4b890aa9f2d616cf78c16cb54bc3fe2f6c85d7[m[33m ([m[1;36mHEAD -> [m[1;32mfilling-layout-style[m[33m)[m
+Author: fusheng <2812313382@qq.com>
+Date:   Sat Aug 8 08:24:39 2020 +0000
+
+    初始化样式
+
+[33mcommit 6edcb6b47bc0e769f918b4d6613d42012851a3ff[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mstatic-pages[m[33m, [m[1;32mmaster[m[33m)[m
+Author: fusheng <2812313382@qq.com>
+Date:   Sat Aug 8 06:49:11 2020 +0000
+
+    基础页面
+
+[33mcommit c068bb5b26a45b221a9dae7de6bef1b3b2bad593[m
+Author: fusheng <2812313382@qq.com>
+Date:   Sat Aug 8 06:03:51 2020 +0000
+
+    Add .editorconfig
+
+[33mcommit 2fd26184e1d516856afdeab7742aa456ace115ad[m
+Author: fusheng <2812313382@qq.com>
+Date:   Sat Aug 8 05:57:14 2020 +0000
+
+    Initial commit
